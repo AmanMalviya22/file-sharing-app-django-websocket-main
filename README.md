@@ -12,3 +12,8 @@ http://127.0.0.1:8000/handle and in body section seletion form data and in input
 the output will look like .
 ![Screenshot 2023-12-29 124353](https://github.com/AmanMalviya22/file-sharing-app-django-websocket-main/assets/94959490/62c7e122-1974-4418-ab59-df6d6f0b61ac)
 
+## in above image we get folder which contain all files that we uploaded
+in order to download all file we upload we can share url
+### http://127.0.0.1:8000/download/841cc7b1-e658-44d4-be56-6d39130286da
+
+
